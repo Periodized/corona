@@ -9,6 +9,8 @@ from lib import cc, translate
 # whole thing has a "lipid bilayer envelope", with S E M sticking out
 # the orf proteins are "non structural" and form a "replicase-transcriptase complex"
 
+# New Change!
+
 # copy machine -- https://www.uniprot.org/uniprot/Q0ZJN1
 # zhanglab breaks this down into many more proteins
 
